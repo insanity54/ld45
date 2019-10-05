@@ -1,9 +1,33 @@
-# ld45
-
-Chris's Ludum Dare 45 Entry
+# ludum dare 45
 
 ## Theme
 
-Theme: Start with nothing
+Start with nothing
 
-##
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Run your tests
+```
+npm run test
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
